@@ -11,10 +11,10 @@ LinkClock.help;
 // buffers
 
 (
-~b1= Buffer.read(s,"C:/Users/uaml/Downloads/spray5_st.wav");
-~b2= Buffer.read(s,"C:/Users/uaml/Downloads/silbato1_st.wav");
-~b3= Buffer.read(s,"C:/Users/uaml/Downloads/pastillas_st.wav");
-~b4= Buffer.read(s,"C:/Users/uaml/Downloads/agua_agitada_st.wav");
+~b1= Buffer.read(s,"C:/Users/UAML/Downloads/agua_agitada_st.wav");
+~b2= Buffer.read(s,"C:/Users/UAML/Downloads/pastillas_st.wav");
+~b3= Buffer.read(s,"C:/Users/UAML/Downloads/silbato1_st.wav");
+~b4= Buffer.read(s,"C:/Users/UAML/Downloads/spray5_st.wav");
 );
 
 // synthes
